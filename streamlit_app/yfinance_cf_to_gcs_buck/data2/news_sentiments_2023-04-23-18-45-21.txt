@@ -1,0 +1,25 @@
+AAPL,2023-04-23,UKs Largest Charity Exits Meta Stock Sells Apple Microsoft,Positive,0.259,0.0,0.741
+AAPL,2023-04-23,U.K.s Largest Charity Exits Meta Stock Sells Apple Microsoft,Positive,0.259,0.0,0.741
+AAPL,2023-04-23,3 Stocks Warren Buffett Would Probably Tell You to Sell -- and 1 He'd Likely Recommend Buying,Positive,0.152,0.0,0.848
+AAPL,2023-04-22,Apple Should Buy This Car Supplier If It Wants to Get Into Autos,Neutral,0.0,0.0,1.0
+AAPL,2023-04-23,The economic mood and other investing stories you may have missed this week,Negative,0.0,0.155,0.845
+GOOGL,2023-04-23,Alphabet CEO Gets Astronomical $226 Million Pay,Negative,0.0,0.189,0.811
+GOOGL,2023-04-23,Alphabet Showers CEO with Hundreds of Millions of Dollars,Neutral,0.0,0.0,1.0
+GOOGL,2023-04-23,Alphabet Floods CEO with Hundreds of Millions,Neutral,0.0,0.0,1.0
+GOOGL,2023-04-23,There Is a Bull Market in the Travel Industry: Buy Airbnb,Neutral,0.0,0.0,1.0
+GOOGL,2023-04-23,Alphabet Cuts Thousands of Jobs. But Floods CEO with Hundreds of Millions,Negative,0.0,0.127,0.873
+AMZN,2023-04-23,3 Traps to Avoid When Shopping at Dollar Stores,Negative,0.0,0.239,0.761
+AMZN,2023-04-23,A Shareholder Revolt at Amazon Reveals Potential Changes Ahead,Positive,0.195,0.0,0.805
+AMZN,2023-04-23,Amazon Crafting Its Chips -- Is AWS Set to Dominate the Semiconductor Space?,Positive,0.12,0.106,0.775
+AMZN,2023-04-23,Is Amazon About to Race Ahead of Microsoft and Alphabet in the AI Arms Race?,Positive,0.108,0.0,0.892
+AMZN,2023-04-23,Big Tech Depends on AI Shining Through Cloud Haze,Neutral,0.0,0.0,1.0
+MSFT,2023-04-23,Alphabet CEO Gets Astronomical $226 Million Pay,Negative,0.0,0.189,0.811
+MSFT,2023-04-23,Alphabet Showers CEO with Hundreds of Millions of Dollars,Neutral,0.0,0.0,1.0
+MSFT,2023-04-23,13 Habits That Helped Bill Gates Build His $110 Billion Fortune,Neutral,0.0,0.0,1.0
+MSFT,2023-04-23,How 5G Could Make Virtual-Reality Devices Better,Positive,0.326,0.0,0.674
+MSFT,2023-04-23,Alphabet Floods CEO with Hundreds of Millions,Neutral,0.0,0.0,1.0
+TSLA,2023-04-23,Elon Musk Sends a Much Needed Message to Tesla Investors,Neutral,0.0,0.0,1.0
+TSLA,2023-04-23,Elon Musk urges entrepreneurs 'please refine lithium' as EVs face choke point,Negative,0.146,0.222,0.633
+TSLA,2023-04-23,Tesla Stock Vs. BYD Stock: Tesla Dives On Weak Margins BYD Unveils Several New EVs,Negative,0.0,0.172,0.828
+TSLA,2023-04-23,Is the Stock Market Overreacting to Tesla's Earnings?,Neutral,0.0,0.0,1.0
+TSLA,2023-04-23,Amazon Microsoft Meta Alphabet lead earnings rush: What to know this week,Positive,0.134,0.0,0.866

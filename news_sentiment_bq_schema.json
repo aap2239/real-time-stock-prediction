@@ -1,0 +1,32 @@
+{"BigQuery Schema":
+[
+  {
+    "name": "Company",
+    "type": "STRING"
+  },
+  {
+    "name": "Date",
+    "type": "STRING"
+  },
+  {
+    "name": "News",
+    "type": "STRING"
+  },
+  {
+    "name": "Sentiment",
+    "type": "STRING"
+  },
+  {
+    "name": "Positive",
+    "type": "FLOAT"
+  },
+  {
+    "name": "Negative",
+    "type": "FLOAT"
+  },
+  {
+    "name": "Neutral",
+    "type": "FLOAT"
+  }
+]
+}

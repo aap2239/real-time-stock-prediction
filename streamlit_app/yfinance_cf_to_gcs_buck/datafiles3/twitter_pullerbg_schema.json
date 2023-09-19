@@ -1,0 +1,35 @@
+{
+ "BigQuery Schema": [{
+   "name": "Company",
+   "type": "STRING"
+  },
+  {
+   "name": "Id",
+   "type": "String"
+  },
+  {
+   "name": "Date",
+   "type": "DATE"
+  },
+  {
+   "name": "Text",
+   "type": "STRING"
+  },
+  {
+   "name": "Negative",
+   "type": "FLOAT"
+  },
+  {
+   "name": "Neutral",
+   "type": "FLOAT"
+  },
+  {
+   "name": "Positive",
+   "type": "FLOAT"
+  },
+  {
+   "name": "Compound",
+   "type": "FLOAT"
+  }
+ ]
+}

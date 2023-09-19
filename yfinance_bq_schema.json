@@ -1,0 +1,35 @@
+{
+ "BigQuery Schema": [{
+   "name": "Date",
+   "type": "DATE"
+  },
+  {
+   "name": "Open",
+   "type": "FLOAT"
+  },
+  {
+   "name": "High",
+   "type": "FLOAT"
+  },
+  {
+   "name": "Low",
+   "type": "FLOAT"
+  },
+  {
+   "name": "Close",
+   "type": "FLOAT"
+  },
+  {
+   "name": "AdjClose",
+   "type": "FLOAT"
+  },
+  {
+   "name": "Volume",
+   "type": "INTEGER"
+  },
+  {
+   "name": "Company",
+   "type": "STRING"
+  }
+ ]
+}
